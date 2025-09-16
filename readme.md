@@ -1,3 +1,5 @@
-##### First On Git ####
-
-#### 2nd Time Changes ####
+##This is my First Ever Code on Github##
+#
+#
+#
+Hello World Indeed! :)
